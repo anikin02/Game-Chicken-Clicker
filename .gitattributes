@@ -1,3 +1,2 @@
-*.js linguist-language=cs
-*.css linguist-language=cs
-*.html linguist-language=cs
+* linguist-vendored
+*.cs linguist-vendored=false
