@@ -9,4 +9,4 @@ I also drew all the graphics for the game.
 
 Flowers, after purchase, begin to bring a certain number of monetary units, depending on the level of the flower.
 
-In the "https://anikin02.itch.io/chickenclicker" there is an .apk file for installing the game on android.
+In the *[link](https://anikin02.itch.io/chickenclicker)* there is an .apk file for installing the game on android.
